@@ -1,4 +1,5 @@
-#Project Overview
+#Project Overview//
+
 This project analyzes historical sales data from 45 Walmart stores across the US, with the aim of predicting sales and accurately meeting demand. 
 We examined various factors such as economic conditions, holiday markdown events, 
 and seasonal variations to understand their impact on sales and to address stock shortages through better demand forecasting.
